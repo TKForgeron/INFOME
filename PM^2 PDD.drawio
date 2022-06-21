@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T09:42:37.989Z" agent="5.0 (Windows)" etag="HPTgwqtg7TxZaTXKy4dH" version="20.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-21T09:46:05.408Z" agent="5.0 (Windows)" etag="6MmIVYV7Az0Jkk3fRht2" version="20.0.1" type="github" pages="5">
   <diagram name="PDD" id="MNqTfpP_V3_Hem4kZCtS">
     <mxGraphModel dx="1888" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3568,58 +3568,58 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-1" target="UK4KLsBn5nS7lDVIxoGu-3">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-1" target="UK4KLsBn5nS7lDVIxoGu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-1" value="&lt;div&gt;Process Identification&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;" vertex="1" parent="1">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Process Identification&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-3" target="UK4KLsBn5nS7lDVIxoGu-4">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-3" target="UK4KLsBn5nS7lDVIxoGu-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-3" value="Process Discovery" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;" vertex="1" parent="1">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-3" value="Process Discovery" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-4" target="UK4KLsBn5nS7lDVIxoGu-5">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-4" target="UK4KLsBn5nS7lDVIxoGu-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-4" value="Process Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;" vertex="1" parent="1">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-4" value="Process Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-5" target="UK4KLsBn5nS7lDVIxoGu-6">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-5" target="UK4KLsBn5nS7lDVIxoGu-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-5" value="Process Redesign" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;" vertex="1" parent="1">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-5" value="Process Redesign" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-6" target="UK4KLsBn5nS7lDVIxoGu-7">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-6" target="UK4KLsBn5nS7lDVIxoGu-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-6" value="Process Implementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;" vertex="1" parent="1">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-6" value="Process Implementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-7" target="UK4KLsBn5nS7lDVIxoGu-3">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="UK4KLsBn5nS7lDVIxoGu-7" target="UK4KLsBn5nS7lDVIxoGu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-7" value="Process Monitoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;" vertex="1" parent="1">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-7" value="Process Monitoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F0F0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-15" value="Conformance and &lt;br&gt;performance insights" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="190" width="130" height="30" as="geometry" />
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-15" value="Conformance and &lt;br style=&quot;font-size: 13px;&quot;&gt;performance insights" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="85" y="185" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-16" value="Executable process &lt;br&gt;model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="390" width="120" height="30" as="geometry" />
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-16" value="Executable process &lt;br style=&quot;font-size: 13px;&quot;&gt;model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="70" y="385" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-17" value="To-be process &lt;br&gt;model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="460" width="90" height="30" as="geometry" />
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-17" value="To-be process &lt;br style=&quot;font-size: 13px;&quot;&gt;model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="455" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-18" value="Insights on &lt;br&gt;weaknesses and &lt;br&gt;their impact" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-18" value="Insights on &lt;br style=&quot;font-size: 13px;&quot;&gt;weaknesses and &lt;br style=&quot;font-size: 13px;&quot;&gt;their impact" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-20" value="Process architecture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-20" value="Process architecture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="390" y="120" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UK4KLsBn5nS7lDVIxoGu-21" value="&lt;div&gt;As-is process model&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="UK4KLsBn5nS7lDVIxoGu-21" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;As-is process model&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="552.5" y="190" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
